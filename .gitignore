@@ -71,4 +71,6 @@ ehthumbs.db
 
 
 # Folders #
-/temp
+node_modules
+package-lock.json
+*.env
