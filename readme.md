@@ -10,10 +10,10 @@
 1. ✅Http Client
 2. ✅Weather API
 
-## 03.Day [ ]
+## 03.Day [Express]
 
-1. ✅
-2. ✅
+1. ✅Express Server-I
+2. ✅Express Server-II
 
 ## 04.Day []
 
