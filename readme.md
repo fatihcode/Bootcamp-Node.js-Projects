@@ -1,4 +1,4 @@
-# 5 Day Node.js Project
+# 4 Day Node.js Project
 
 ## 01.Day [Basic]
 
@@ -15,12 +15,6 @@
 1. ✅Express Server-I
 2. ✅Express Server-II
 
-## 04.Day []
+## 04.Day [MongoDB]
 
-1. ✅
-2. ✅
-
-## 05.Day []
-
-1. ✅
-2. ✅
+1. ✅Mogoose
